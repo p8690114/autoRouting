@@ -1,6 +1,10 @@
 # autoRouting
 PCB auto placement, auto routing
 
+
+cross folder:
+2 lines given (2 points for each line), calculate the cross point.
+
 ~/pythontest/cross$ python3 cross6.py  [2326.06,790] [1512,1247] [2105,1034] [2217,636]
 A x : 1512 <= 2145.07 <= 2326.06
 A y : 790 <= 891.6 <= 1247
